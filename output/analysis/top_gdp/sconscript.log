@@ -1,0 +1,19 @@
+*** Builder log created: {2023-10-01 22:34:39}
+*** Builder log completed: {2023-10-01 22:34:52}
+running
+  'C:\PROGRA~1\R\R-42~1.1\bin\x64\Rterm.exe --no-echo --no-restore --no-save --no-restore --file=source\analysis\top_gdp\top_gdp_table.R'
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'dplyr' was built under R version 4.2.3 
+Selecting by GDP_2010
